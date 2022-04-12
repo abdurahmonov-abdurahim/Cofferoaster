@@ -1,0 +1,178 @@
+/* HERO SECTION */
+
+.hero-section{
+    padding-bottom: 84px;
+}
+
+.hero-container{
+    width: 1280px;
+    margin-top: 22px;
+    border-radius: 5px;
+    background-image: url(../images/Bitmap-about.png);
+}
+
+.hero-text{
+    padding: 137px 85px;
+}
+
+.hero-heading{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 24px;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+}
+
+.hero-desc{
+    margin: 0;
+    padding: 0;
+    width: 445px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+}
+
+/* OUR COMMITMENT */
+
+.commit-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 84px 0;
+}
+
+.commit-text-wrapper{
+    margin-left: 125px;
+}
+
+.commit-heading{
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #333D4B;
+}
+
+.commit-desc{
+    width: 540px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+/* QUALITY SECTION */
+
+.quality-section{
+    padding: 172px 20px 84px 20px;
+}
+
+.quality-container{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    /* margin: 172px auto 84px auto; */
+    background-color: #293039;
+    border-radius: 5px;
+}
+
+.quality-text-wrapper{
+    margin-right: 125px;
+    padding-top: 85px;
+}
+
+.quality-heading{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 32px;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+}
+
+.quality-desc{
+    margin: 0;
+    padding: 0;
+    width: 540px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.quality-img{
+    position: relative;
+    bottom: 88px;
+    border-radius: 10px;
+}
+
+/* OFFICES HEADQUARTERS LOCATION */
+
+.offices-container{
+    padding: 84px 0;
+}
+
+.offices-location-title{
+    margin: 0;
+    padding: 0;
+    margin: 0 0 72px 110px;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888F;
+}
+
+.offices-list{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.offices-item{
+    width: 285px;
+}
+
+.offices-item:nth-child(even){
+    margin: 0 95px;
+}
+
+.offices-country-name{
+    margin: 0;
+    padding: 0;
+    margin: 46px 0 24px 0;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333D4B;
+}
+
+.offices-desc{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
